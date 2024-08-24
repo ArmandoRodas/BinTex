@@ -14,6 +14,14 @@
             margin: 0;
         }
 
+        #titul{
+            color: blue;
+            text-align: center;
+            font-size: 15px;
+            margin: 0 auto 0 auto;
+        }
+        
+
         .card {
             width: 25rem;
         }
@@ -27,7 +35,7 @@
 <body>
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">TRADUCTOR BINARIO</h5>
+            <h6 class="card-title" id="titul">TRADUCTOR BINARIO - TEXTO - VICEVERSA </h6>
         </div>
         <div class="card text-center">
             <div class="card-header">

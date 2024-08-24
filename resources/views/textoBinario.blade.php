@@ -1,6 +1,6 @@
 @extends('layout.app')
 
-@section('title', 'Textp-Binario')
+@section('title', 'Texto-Binario')
 
 @section('content')
     <div class="card-body">
